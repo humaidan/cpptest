@@ -1,3 +1,9 @@
+#run time
+*.dSYM
+*.ilk
+*.pdb
+
+
 # Prerequisites
 *.d
 
