@@ -1,3 +1,6 @@
+#ignore executables without extensions
+bin/
+
 #run time
 *.dSYM
 *.ilk
